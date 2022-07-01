@@ -1,0 +1,3 @@
+[submodule "orc-sys/orc"]
+	path = orc-sys/orc
+	url = https://github.com/apache/orc
